@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![image](https://github.com/Reklies/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147139232/9afc07c0-56dc-40b3-afe4-dfc924dbad18)
+ ![image](https://github.com/Reklies/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147139232/ac9b9aff-a40b-48ce-8262-e447c7fc88d2)
+
 
  
  ## RESULT
